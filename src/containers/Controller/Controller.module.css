@@ -1,0 +1,14 @@
+.Controller {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Title {
+  color: darkslategray;
+  font-size: 1.3rem;
+  font-weight: 700;
+  padding: 15px;
+  text-align: center;
+}

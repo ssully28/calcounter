@@ -1,0 +1,18 @@
+.InputWrapper {
+  margin: 25px auto;
+  width: 80%;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+
+}
+
+.Icon {
+  font-size: 2em;
+  color: rgb(0, 0, 0);
+  margin: 2px 10px;
+  cursor: pointer;
+}

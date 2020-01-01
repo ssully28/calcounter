@@ -1,0 +1,9 @@
+.Heading {
+  background-color: cornflowerblue;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 20px 0;
+  letter-spacing: 1.75px;
+  text-shadow: 2px 2px 3px rgba(131, 131, 131, 0.25);
+}

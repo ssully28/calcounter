@@ -1,0 +1,13 @@
+.Input {
+  border: none;
+  width: 90%;
+  height: 2em;
+  font-size: 1.15em;
+  background-color: transparent;
+  margin-left: 10px;
+}
+
+.Input:focus, .Input:active {
+  outline: none !important;
+  box-shadow: none !important;
+}

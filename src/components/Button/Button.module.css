@@ -1,0 +1,16 @@
+.Button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  font: inherit;
+  padding: 12px;  
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.Button:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+  font-weight: 700;
+}

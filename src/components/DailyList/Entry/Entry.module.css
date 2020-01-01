@@ -1,0 +1,6 @@
+.Entry {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
