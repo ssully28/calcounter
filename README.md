@@ -1,3 +1,24 @@
+## Dead Simple Calorie Counter
+
+Wrote this bare bones calorie counting app because all the ones I could find in the google app store were beyond complicated.
+
+Deployed [here.](http://simplecalorie.netlify.com)
+
+Just enter your calories, hit either the + button or "Enter" from the keyboard to add the calories to your list. Values are stored in Local Storage for persitence.
+
+Max calories for the day is hardcoded in state within controller.js.
+
+Reset : Hit the trash-can button to delete all of the entries.
+
+##### To-do (eventually):
+* Make max calories setable
+* Change background color to orange when getting within X of your max calories, red when you've gone over the max
+* Find a different icon
+* Maybe add some flare to the title
+* Ideally remove layout from controller.js
+
+___
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
