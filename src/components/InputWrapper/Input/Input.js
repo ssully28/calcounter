@@ -4,7 +4,7 @@ import classes from './Input.module.css';
 const Input = (props) => {
   return (
     <input
-      type='text'
+      type='number'
       className={classes['Input']}
       placeholder={props.placeholder}
       value={props.value}
